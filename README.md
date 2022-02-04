@@ -3,29 +3,29 @@
 
 ###  Visão geral: Java Collections Framework e hierarquia
 
-- List
+* List
  
 Coleção com iterações ordenadas: List
 Conhecendo os métodos
 Ordenação da coleção List
 
-- Set
+* Set
 
 Coleção com singularidade: Set
 Conhecendo os métodos
 Ordenação da coleção Set
 
-- Map
+* Map
 
 Coleção de pares: Map
 Conhecendo os métodos
 Ordenação de Map
 
-- Stream API
+* Stream API
 
-Visão geral: Classe Anônima - Functional Interface - Lambda - Method Reference
-Stream API
-Conhecendo as operações
+ - Visão geral: Classe Anônima - Functional Interface - Lambda - Method Reference  
+ - Stream API
+ - Conhecendo as operações
 
 
 #### Curso ministrado pela cami-la na plataforma DIO
